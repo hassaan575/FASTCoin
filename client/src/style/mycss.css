@@ -1,0 +1,21 @@
+.flexceter {
+  display: flex;
+  justify-content: center;
+}
+.flexaligncenter {
+  display: flex;
+  align-items: center;
+}
+.flexcol {
+  display: flex;
+  flex-direction: column;
+}
+.wd30 {
+  width: 30%;
+}
+.mglf {
+  margin-left: 500px;
+}
+.mgrt {
+  margin-right: 5px;
+}
