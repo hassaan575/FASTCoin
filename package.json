@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-bootstrap": "^2.7.0",
+    "react-modal": "^3.16.1",
+    "react-toastify": "^9.1.1",
+    "reactstrap": "^9.1.5"
+  }
+}
